@@ -1,0 +1,15 @@
+C:\Users\55219\OneDrive\Documentos\GitHub\ExerciciosCSharp\ExerciciosTrybe\bin\Debug\net6.0\ExerciciosTrybe.exe
+C:\Users\55219\OneDrive\Documentos\GitHub\ExerciciosCSharp\ExerciciosTrybe\bin\Debug\net6.0\ExerciciosTrybe.deps.json
+C:\Users\55219\OneDrive\Documentos\GitHub\ExerciciosCSharp\ExerciciosTrybe\bin\Debug\net6.0\ExerciciosTrybe.runtimeconfig.json
+C:\Users\55219\OneDrive\Documentos\GitHub\ExerciciosCSharp\ExerciciosTrybe\bin\Debug\net6.0\ExerciciosTrybe.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\ExerciciosCSharp\ExerciciosTrybe\bin\Debug\net6.0\ref\ExerciciosTrybe.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\ExerciciosCSharp\ExerciciosTrybe\bin\Debug\net6.0\ExerciciosTrybe.pdb
+C:\Users\55219\OneDrive\Documentos\GitHub\ExerciciosCSharp\ExerciciosTrybe\obj\Debug\net6.0\ExerciciosTrybe.csproj.AssemblyReference.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\ExerciciosCSharp\ExerciciosTrybe\obj\Debug\net6.0\ExerciciosTrybe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55219\OneDrive\Documentos\GitHub\ExerciciosCSharp\ExerciciosTrybe\obj\Debug\net6.0\ExerciciosTrybe.AssemblyInfoInputs.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\ExerciciosCSharp\ExerciciosTrybe\obj\Debug\net6.0\ExerciciosTrybe.AssemblyInfo.cs
+C:\Users\55219\OneDrive\Documentos\GitHub\ExerciciosCSharp\ExerciciosTrybe\obj\Debug\net6.0\ExerciciosTrybe.csproj.CoreCompileInputs.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\ExerciciosCSharp\ExerciciosTrybe\obj\Debug\net6.0\ExerciciosTrybe.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\ExerciciosCSharp\ExerciciosTrybe\obj\Debug\net6.0\ref\ExerciciosTrybe.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\ExerciciosCSharp\ExerciciosTrybe\obj\Debug\net6.0\ExerciciosTrybe.pdb
+C:\Users\55219\OneDrive\Documentos\GitHub\ExerciciosCSharp\ExerciciosTrybe\obj\Debug\net6.0\ExerciciosTrybe.genruntimeconfig.cache
